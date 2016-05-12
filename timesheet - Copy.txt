@@ -1,0 +1,36 @@
+MONDAY:
+----------------------------------------
+SFDC: 8
+Breville Web-to-Case: [8 hrs.]
+1. Implemented VF page for Web-to-Case for product "BPR600XL".
+2. Implemented test code for above functionality.
+3. Unit tested the same.
+SS: 1
+IPC: [Generate Placement Functionality]
+1. Implemented test code for "Generate Placement" use cases.
+
+TUESDAY:
+----------------------------------------
+SFDC: 9
+Arlon Graphics: [Assignment purpose]
+1. Imported price books, products and price book entries.
+
+WEDNESDAY:
+----------------------------------------
+SS: 9
+
+
+THURSDAY:
+----------------------------------------
+SFDC: 9
+1. Implemented the trigger for updating New Agent Manager field on Account, Contact and Lead.
+2. Implemented the test code for above functionality.
+3. Unit tested triggers on Account, Contact, Lead.
+
+FRIDAY:
+----------------------------------------
+SFDC: 9
+Golden Outlook: [For assignment purpose]
+1. Implemented the auto-population of Snapshot RSD and Snapshot Agent Manager fields on Opportunity and Compliance Object.
+2. Implemented the test code for above functionality.
+3. Unit tested triggers on Zip Code - County, Opportunity and Compliance.
